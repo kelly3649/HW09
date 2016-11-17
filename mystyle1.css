@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+    cursor: crosshair;
+}
+h1{   
+    color: navy;
+    font-size: 300px;
+    margin-left: 300px;
+    border: navy 5px dotted;		     
+    font-family:"Georgia";
+}
+
+h2{   
+    color: maroon;
+    font-size: 100px;
+    margin-left: 300px;
+    border: maroon 5px dotted;
+    font-family:"Times New Roman";
+}
+
+h3{   
+    color: indigo;
+    font-size: 100px;
+    margin-left: 300px;
+    border: indigo 5px dotted;		     
+    font-family:"Courier New";
+}
+
+p{   
+    color: SeaGreen;
+    font-size: 50px;
+    margin-left: 100px;
+    transform: rotate(5deg);		     		     
+    font-family:"Comic Sans MS";
+}    
