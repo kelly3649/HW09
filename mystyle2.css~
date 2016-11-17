@@ -1,0 +1,35 @@
+body {
+    background-color: Crimson;
+    color: white;
+    font-family: Lucide Console;
+    margin-left: 300px;
+}
+h1 {
+    cursor: crosshair;
+    font-size: 300px;
+    border: navy 5px dotted;		     
+    text-decoration: underline
+}
+
+h2 {   
+    cursor: crosshair;
+    font-size: 100px;
+    border: maroon 5px dotted;
+    text-decoration: overline;
+}
+
+h3 {   
+    cursor: crosshair;
+    font-size: 100px;
+    border: indigo 5px dotted;
+    text-decoration: overline;
+}
+
+p {   
+    border: SeaGreen 5px double;
+    text-decoration: line-through;
+    cursor: crosshair;
+    font-size: 50px;
+    margin-left: 100px;
+    	     		     
+}    
