@@ -1,32 +1,33 @@
-body {
+.extreme {
     background-color: Crimson;
     color: white;
     font-family: Lucide Console;
     margin-left: 100px;
 }
-h1 {
+#head1 {
     cursor: pointer;
     font-size: 50px;
     border: navy 2px solid;		     
     text-decoration: underline
 }
 
-h2 {   
+.content {   
     cursor: col-resize;
     font-size: 50px;
     border: maroon 2px solid;
     text-decoration: overline;
 }
 
-h3 {   
+.navzone {   
     cursor: move;
     font-size: 50px;
     border: LightSalmon 2px solid;
     text-decoration: overline;
 }
 
-p {
+.prose {
     cursor: wait;
     border: SeaGreen 5px double;
     font-size: 25px;    	     		     
 }    
+

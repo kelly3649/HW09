@@ -1,16 +1,21 @@
+.extreme {
+    font-size: 50px;
+    margin-left: 100px;
+    font-family:"Georgia";
+}
+
+#head1 {
+    border: navy 5px dotted;		     
+    color: red;
+}
+
 body {
     background-color: lightblue;
     cursor: crosshair;
 }
-h1 {   
-    color: navy;
-    font-size: 100px;
-    margin-left: 100px;
-    border: navy 5px dotted;		     
-    font-family:"Georgia";
-}
 
-h2 {   
+
+.content {   
     color: maroon;
     font-size: 50px;
     margin-left: 100px;
@@ -18,18 +23,18 @@ h2 {
     font-family:"Times New Roman";
 }
 
-h3 {   
+.navzone {   
     color: indigo;
     font-size: 50px;
     margin-left: 100px;
-    border: indigo 5px dotted;		     
     font-family:"Courier New";
 }
 
-p {   
+.prose {   
     color: SeaGreen;
     font-size: 25px;
     margin-left: 100px;
+    border: indigo 5px dotted;		     
     transform: rotate(5deg);		     		     
     font-family:"Comic Sans MS";
 }    
