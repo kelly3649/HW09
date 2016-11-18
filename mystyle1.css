@@ -10,10 +10,9 @@
 }
 
 body {
-    background-color: lightblue;
+    background-image: url("duckCat.jpg");
     cursor: crosshair;
 }
-
 
 .content {   
     color: maroon;
@@ -34,7 +33,7 @@ body {
     color: SeaGreen;
     font-size: 25px;
     margin-left: 100px;
-    border: indigo 5px dotted;		     
+    border: indigo 5px dotted;	
     transform: rotate(5deg);		     		     
     font-family:"Comic Sans MS";
 }    
